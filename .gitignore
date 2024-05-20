@@ -20,3 +20,5 @@ data/bluebook_for_bulldozers/*
 data/bluebook-for-bulldozers/
 *__MACOSX*
 notebook-playground.ipynb
+*.yml
+milestone-projects\bulldozer-price-prediction-project\env
