@@ -14,4 +14,8 @@ Welcome to my Miniconda Projects repository! 🚀 Dive into a diverse collection
 
 Each project has its own folder with Jupyter notebooks (.ipynb) and accompanying data files. Dive in, explore, and feel free to contribute! Have questions or ideas? Let's chat.
 
+<<<<<<< HEAD
 Happy coding and learning! 🌟
+=======
+Happy coding and learning! 🌟
+>>>>>>> 8bbf8e24b2eacf3bf663c4e79dc1a4d64fd944c7
